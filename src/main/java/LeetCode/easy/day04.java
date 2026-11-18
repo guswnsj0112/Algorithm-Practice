@@ -1,4 +1,4 @@
-package easy;
+package LeetCode.easy;
 
 // 125. Valid Palindrome
 // https://leetcode.com/problems/valid-palindrome/description/

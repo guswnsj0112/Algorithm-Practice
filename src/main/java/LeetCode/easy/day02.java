@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum/description/
 
-package easy;
+package LeetCode.easy;
 
 import java.util.HashMap;
 import java.util.List;
