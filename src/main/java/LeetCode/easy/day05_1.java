@@ -2,7 +2,7 @@ package LeetCode.easy;
 
 // 344. Reverse String
 // https://leetcode.com/problems/reverse-string/description/
-public class day5 {
+public class day05_1 {
     public static void main(String[] args) {
         /*
             GPT는 변수를 하나로 줄이는 걸 춴했다
